@@ -1,0 +1,39 @@
+
+/**
+ * Main styles file for gallery viewer. We'll stick to BEM's modular css
+ * methodology.
+ */
+
+//** Animations
+
+//** Utility classes
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+// Background color for body
+
+.b-body {  background-color: #111; }
+
+// Styles for main section
+
+.b-main {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+// Styles for image blocks
+
+.b-image-block {
+  
+}
