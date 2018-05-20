@@ -1,0 +1,26 @@
+{
+	"images": [
+		{
+			"id": 1,
+			"name": "superman-background.jpg",
+			"alt": "Superman saving civilian"
+		}, {
+			"id": 2,
+			"name": "heroes-background.jpg",
+			"alt": "Marvel and DC superheroes pictures"
+		}, {
+			"id": 3,
+			"name": "batman-background.jpg",
+			"alt": "Batman arkham logo"
+		}, {
+			"id": 4,
+			"name": "deadpool-background.jpg",
+			"alt": "Deadpool is number one. And this background shows that. Sorry blind people."
+		}
+	],
+	"info": {		
+		"githubLink": "https://github.com/TheColucciExperience/gallery-viewer",
+		"infoTitle": "Gallery Viewer",
+		"infoText": "Gallery Viewer is a simple application to showcase images about projects or anything that we may need to show in a 'slideshow' format. It provides a simple interface that's easy to use with links to project information. Enjoy!"
+	}
+}
