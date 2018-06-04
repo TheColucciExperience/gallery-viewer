@@ -1,7 +1,7 @@
 {
-  "name": "webpack-boilerplate",
+  "name": "Gallery Viewer",
   "version": "1.0.0",
-  "description": "A webpack boilerplate for single page projects",
+  "description": "A gallery viewer to showcase projects",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheColucciExperience/webpack-boilerplate.git"
+    "url": "git+https://github.com/TheColucciExperience/gallery-viewer.git"
   },
   "keywords": [
     "webpack",
@@ -18,9 +18,9 @@
   "author": "TheColucciExperience",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheColucciExperience/webpack-boilerplate/issues"
+    "url": "https://github.com/TheColucciExperience/gallery-viewer/issues"
   },
-  "homepage": "https://github.com/TheColucciExperience/webpack-boilerplate#readme",
+  "homepage": "https://github.com/TheColucciExperience/gallery-viewer#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
     "copy-webpack-plugin": "^4.5.1",
