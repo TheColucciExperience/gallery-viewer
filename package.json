@@ -12,8 +12,8 @@
     "url": "git+https://github.com/TheColucciExperience/gallery-viewer.git"
   },
   "keywords": [
-    "webpack",
-    "boilerplate"
+    "gallery",
+    "viewer"
   ],
   "author": "TheColucciExperience",
   "license": "MIT",
